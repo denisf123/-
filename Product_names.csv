@@ -1,0 +1,25 @@
+|Номер заказа|;|Дата заказа|;|Название товара|;|Категория товара|;|Цена за единицу|;|Количество продаж|;|Общая стоимость|
+1;2021-9-11;Microwave;Kitchen;5000;230;115000
+2;2019-5-23;Fridge;Kitchen;20000;69;138000
+3;2024-11-16;Plate;Kitchen;7000;270;1890000
+4;2017-3-9;TV;Devices_for_content;100000;230;2300000
+5;2019-7-25;Oven;Kitchen;27000;79;2133000
+6;2016-4-2;Washing_machine;Bathroom_appliance;15000;90;1350000
+7;2020-5-21;Toaster;Kitchen;3000;150;450000
+8;2018-8-26;Dishwasher;Kitchen;17000;55;935000
+10;2022-10-25;Waffle_iron;Kitchen;2500;74;1850000
+11;2015-3-4;Kettle;Kitchen;1300;300;390000
+12;2023-7-12;Range_hood;Kitchen;13000;79;1027000
+13;2020-1-17;Multicooker;Kitchen;7000;400;2800000
+14;2017-10-12;Computer;Devices_for_content;120000;600;72000000
+15;2022-10-21;Laptop;Devices_for_content;90000;711;63990000
+16;2015-9-29;Iphone_14;Devices_for_content;70000;234;16380000
+17;2018-4-2;Tablet;Devices_for_content;79000;295;23305000
+18;2016-6-5;Smart_watch;smartphone_equipment;30000;320;9600000
+19;2023-2-1;Headphones;smartphone_equipment;15000;1078;16170000
+20;2020-1-6;Sony_PS5;Devices_for_content;50000;81;4050000
+21;2017-12-16;Router;PC_equipment;8000;387;3096000
+22;2018-6-24;Mouse;PC_equipment;3300;910;3003000
+23;2016-11-13;Keyboard;PC_equipment;6000;44;264000
+24;2021-8-14;Monitor;PC_equipment;30000;300;9000000
+25;2023-12-31;Columns;PC_equipment;1500;270;405000
